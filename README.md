@@ -1,6 +1,6 @@
 #Student-Course Database Project
 
-This project demonstrates a simple relational database schema for managing "students", "courses", and their "enrollments".
+This project demonstrates a simple relational database schema for managing students, courses, and their enrollments.
 It also includes sample data inserts and a collection of SQL queries to showcase different types of joins, aggregations, and conditions.
 ---
 ##Step 1: Schema Setup
